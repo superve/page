@@ -10,5 +10,6 @@
         }
     ],
     "minimum-stability": "stable",
+    "provides": "caoyang",
     "require": {}
 }
