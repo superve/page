@@ -1,0 +1,14 @@
+{
+    "name": "gogery/page",
+    "description": "this is a test file",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "gogery",
+            "email": "gogery@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
